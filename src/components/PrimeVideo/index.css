@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.prime-video-container {
+  height: 30vh;
+}
+.prime-video-image-style {
+  height: 100%;
+  width: 100%;
+}
+
+.movies-container {
+  min-height: 80vh;
+  background-color: #000000;
+  padding: 20px;
+}
+.movies-container1 {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.name-style {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.movie-slider {
+  padding-left: 15px;
+  padding-right: 15px;
+}

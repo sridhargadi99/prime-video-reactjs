@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.button-style {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+.image-style {
+  border-radius: 12px;
+}
+.popup-content {
+  background-color: #ffffff;
+  height: 500px;
+  width: 700px;
+  border-radius: 8px;
+  padding: 20px;
+}
+.display-container {
+  display: flex;
+  flex-direction: column;
+}
+.close-button-style1 {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: none;
+  align-self: flex-end;
+  margin-bottom: 20px;
+}
+.video-container {
+  width: 100%;
+}
